@@ -1,4 +1,4 @@
-package com.nineleaps.AppraisalManagement;
+package com.nineleaps.appraisalmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

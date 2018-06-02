@@ -1,4 +1,4 @@
-package com.nineleaps.AppraisalManagement;
+package com.nineleaps.appraisalmanagement;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
